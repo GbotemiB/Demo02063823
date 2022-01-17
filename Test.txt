@@ -1,0 +1,5 @@
+This is a txt file
+regarding about issues .
+First create issues & close the issues.     FIRST PR
+Manage pull req Etc.
+This fixes issue
